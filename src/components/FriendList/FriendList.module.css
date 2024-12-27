@@ -1,0 +1,17 @@
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
+.friendList {
+  margin-top: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.friendItem {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32px;
+}
