@@ -1,0 +1,15 @@
+.transTable {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+}
+
+.transTable thead tr {
+  background-color: #2a2a2a;
+  color: white;
+}
+
+.transTable tbody tr {
+  border: 1px solid #7a7a7a;
+}
